@@ -69,10 +69,10 @@ const Page = () => {
           <li className="list-item-inline"></li>
           <li className="list-item-inline"></li>
           <li className="list-item-inline">
-            <a className="link" href="https://www.linkedin.com/in/rutika-varpe-05a154331/">
+            <a className="link" href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
               linkedin
             </a>
-            <a className="link" href="https://github.com/Rutika-Varpe">Github</a>
+            <a className="link" href="https://github.com/tusharkale1504">Github</a>
           </li>
         </ul>
       </footer>
